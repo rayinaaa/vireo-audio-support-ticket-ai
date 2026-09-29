@@ -1,0 +1,652 @@
+ticket_id,created_at,channel,category,ai_category,ai_confidence,assigned_team,customer_message,agent_notes
+TK-253335,2026-05-19 19:54,email,Other,Other,0.2703545829689076,Email Frontline,promo cde shows invalid. CAN SOMEONE FIX THIS?,see prev
+TK-246891,2025-11-08 15:53,email,Other,Product Enquiry,0.31165715060073684,Email Frontline,"dear sir/madam,
+
+i am writing with reference to my ordre of obit mini placed on 08-11-2025.  coupon code not working. i have tried in caps. i request you to provide a resolution within 3 working days.
+
+yours faithfully,
+geeta shinde
+indore","ticket raised for discount not applied. checked cart eligibility. adv coupon terms, rslvd. follow-up not required."
+TK-252493,2026-04-23 22:17,chat,Delivery & Shipping,Warranty & Repair,0.31632330725312807,Logistics,"Really frustrating. This is regarding the Nexa 2. box was crushed and the the Nexa 2 is cracked. I already took photos. I want a replacement or refund, nothing else.",as discussed
+TK-254412,2026-06-22 06:50,chat,Other,Charging & Battery,0.31651113827658506,Chat Frontline,"it is a very expensive brick now, no lights, no sound, VR884278, how do i get this fixed?",cx: unit dead | walked through hard reset -> replacement raised
+TK-244044,2025-08-09 09:42,chat,Other,Connectivity,0.3168622075742229,Chat Frontline,"Dear Sir/Madam,
+
+I am writing with reference to my oder of Orbit Mini placed on 25-07-2025. The sound stutters whenever my pone is in my pocket. I HAVE TURNED OFF WIFI. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Komal Pandey
+Mysuru",- (SOP 3.1)
+TK-253429,2026-05-23 09:07,social,Other,Billing & Payments,0.3179692954248284,Chat Frontline,"to the vireo customer care team,
+
+i am writing with reference to my order of the pulse 2 earbuds (vr910102) placed on 11-05-2026.  your ad said 20% off and the cart says full price. i have tried in caps. i request u to provide a resolution within 3 working days.
+
+yours faithfully,
+ishaan reddy
+mysuru",cx: coupon not applied | checked cart eligibility -> partial refund of discount amount issued ~Ramesh
+TK-251913,2026-04-06 20:29,social,Other,Other,0.32293001452606507,Chat Frontline,"dear sir/madam,
+
+i am writing with reference to my order of the pusle 2 earbuds (vr887943) placed on 05-02-2026. it connects for a second and then vanishes from the device list. i haev restarted the phone. i request you to process a refudn to my original payment method.
+
+regards,
+rohit khanna",see prev //AAD
+TK-247538,2025-11-24 20:21,chat,Charging & Battery,Audio Quality,0.3288125261219745,Chat Frontline,"team,
+only one side plays sound
+kuch karo
+??",rslvd on call
+TK-244661,2025-08-30 14:43,social,Billing & Payments,Returns & Refunds,0.3415796603613824,Billing,"Dear Sir/Madam,
+
+I am writing wth reference to my order of teh Nexa 2 placed on 18-08-2025. Still waiting for my refund. I have emailed twice. I request you to provide a resolution within 3 working days.
+
+Yours faithfully,
+Ritika Kulkarni
+Pune",resolved on call (SOP 5.4)
+TK-249030,2026-01-05 18:42,social,Other,Other,0.3477649117272649,Chat Frontline,"hello vireo, got my pulse from vireo.in recently.  the invoice pdf link gives a 404. i tried different browser. please advise. thanks & regards",Reported: invoice not downloading. Regenerated invoice. GST invoice regenerated and shared.
+TK-250668,2026-02-25 21:32,voice,Billing & Payments,Billing & Payments,0.3530711937806283,Billing,[IVR transcript] hey invoice not downloading ??,cx ok
+TK-249703,2026-01-26 11:46,chat,Other,Other,0.353496531793701,Chat Frontline,"Dear Sir/Madam,
+
+I am writing with reference to my order of Nexa Fit (VR898964) placed on January 21.  Discount was not applied at checkout. I have tried in caps. I request you to look into this matter at the earliest.
+
+Yours faithfully,
+Shreya Singh
+Guwahati","cx says discount not applied. chk cart eligibility. advised coupon terms, rslvd. (sop 4.2)"
+TK-244820,2025-09-05 12:27,chat,Billing & Payments,Billing & Payments,0.3607745604809447,Billing,"Dear Sir/Madam, Bought Pulse 2 around 28-08-2025 from vireo.in. My order has not been delivered yet. I checked with neighbours. Nothing changed. Can someone fix this?","Ticket raised for delivery delayed. Checked AWB with courier. RTO confirmed, reshipped. Cx satisfide on chat."
+TK-241939,2025-04-18 20:37,chat,Other,Other,0.3658456167010804,Chat Frontline,"hleo
+keeps lossing my phone if i walk to the other room
+pls rply",cx: intermittent disconnects | checked fw 2.2.11 -> refunded rs 250 | xfer escalations & warranty
+TK-246065,2025-10-17 08:41,chat,Other,Billing & Payments,0.3660681706137268,Chat Frontline,"namaste,
+this is regarding the airlite buds. the festive offer vanished when i clicked pay.
+i want a replacement.",cx reached out - discount not applied. checked cart eligibility. store crediit issued.
+TK-250173,2026-02-10 12:10,chat,Other,Other,0.3699593796418174,Chat Frontline,"product: pulse 1
+order: vr903386
+purchased: 07-02-2026
+issue: is pulse 1 compatible wiith my tv
+expected: replacement",done
+TK-245246,2025-09-19 08:15,email,Billing & Payments,Other,0.3703928233201942,Billing,"ordered pulse2 last week. i was promised a discount on the call, invoice shows none.
+i tried in caps.
+please call me on my registered number.
+please revert","re: promo code invalid | chk cart eligibility -> advised coupon terms, rslvd"
+TK-248232,2025-12-12 14:27,social,Other,Delivery & Shipping,0.37153262755075145,Chat Frontline,"hey, got the neckband from vireo.in last month.  it has been 21 days & i have nothing in hand. what do i do now? rgds, joseph","Ticket raised for order not delivered. Confirmed address with cx. xfer to Logistics. Courier confirmed delivery for 14 Dec, cx informed. Will monitor. (SOP 4.2) ~Imran"
+TK-251703,2026-03-31 06:54,chat,Other,Other,0.37252322302495805,Chat Frontline,"Product: my Nexa
+Order: VR880521
+Purchased: 30-04-2025
+Issue: watch not responding to touch
+Tried: cleaned screen
+Expected: refund",hard reset rslvd
+TK-248184,2025-12-10 21:15,chat,Other,Other,0.3725997438748256,Chat Frontline,"to teh vireo customer care team,
+
+i am writing with reference to my order of pulse 2 placed on december 04. discount was not aplpied at checkout. i have tried on app and website. i request you to kindly arrange a replacement.
+
+regards,
+simran bhatt
+patna","cx: promo code invalid | checked coupon validity -> adv coupon terms, resolved -SM"
+TK-242326,2025-05-11 12:04,social,Billing & Payments,Billing & Payments,0.37406811549788854,Billing,i have been a loyal customer and this is how you treat me.  order vr900615 (strata 3). card charged two times. i already checked with bank. refund. now.,cx ok -VG
+TK-251818,2026-04-04 12:30,email,Delivery & Shipping,Delivery & Shipping,0.3741835904728358,Logistics,"hello ji
+box was crushed and the pulse 2 buds is cacked
+please jalddi
+pullse 2 buds VR902660
+anyone there",replacement raised
+TK-252317,2026-04-18 13:27,voice,Other,Other,0.3743030118368567,Voice Frontline,"your ad said 20% off and the cart says full prie
+pls adviise","1. Promo code invalid
+2. chk cart eligibility
+3. rfnd approved, Rs 2499, 5-7 working days -NP"
+TK-242797,2025-06-06 20:36,chat,Other,Billing & Payments,0.3834024908341515,Chat Frontline,"hello ji
+need the bill with my firm's gstin on it
+abhi tak kuch nahi hua",Cx says GST invoice request. Updated GSTIN on ord. Invoice emailed.
+TK-243336,2025-07-07 11:15,chat,Billing & Payments,Other,0.3835891390648652,Billing,"Hi Vireo support, Got Nexa watch from Flipkart 3 weeks back.  My son orderde this without asking, please reverse. I tried cancel button, greyed out. Really frustrating. Pease advise","1. cancel odrer
+2. checked shipment status
+3. transferred to chat frontline
+4. cancelled, refund initiated (sop 2.7)"
+TK-254074,2026-06-12 07:55,chat,Billing & Payments,Delivery & Shipping,0.383797476237441,Billing,"please cancel, ordered by mistake
+kindly look into it","ordre cancellation | cancelled before dispatch -> already shipped, advised rto/return [closed]"
+TK-242684,2025-05-31 12:09,email,Other,App & Firmware,0.3860048141384719,Email Frontline,"hey
+bluetooth pairing fails every time
+the mini speaker
+anyone there","cx states paring failure. checked phone os version. reset done, paired ok. follow-up not required."
+TK-242974,2025-06-16 10:06,chat,Other,Other,0.38614876137196913,Chat Frontline,"hey
+need teh bill witth my firm's gstin on it
+??","1. GST invoice request
+2. Regenerated invoice
+3. GST invoice regenerated and shared ~Rohan"
+TK-252698,2026-04-29 12:59,social,Billing & Payments,Billing & Payments,0.3898814408820584,Billing,"hi there,
+got spare case from amazon around diwali.  my order has not been delivered yet.
+i called the courier.
+please resolve asap.
+thanks,","1. Order not delivered
+2. Raised ticket with courier partner
+3. RTO confirmed, reshipped"
+TK-245899,2025-10-12 09:13,chat,Other,Billing & Payments,0.3928937140097016,Chat Frontline,"hey
+pls share invoice with gst number","1. Invoice not downloading
+2. Regenerated invvoice
+3. GST invoice regenerated & shared"
+TK-246798,2025-11-06 18:25,chat,Other,Connectivity,0.39323680969231484,Chat Frontline,"hi there, ordered pulse 2 in august.  it goes silent for a second every few minutes and comes back. i reset both devices. what do i do now? thanks in advance,",rslvd on call
+TK-246727,2025-11-04 16:15,social,Other,Other,0.395876600538185,Chat Frontline,"product: nexa fit
+order: vr889781
+purchased: october 29
+issue: need the bill w/ my firm's gstin on it
+tried: checked orders page
+expected: resolution",gst invoice regenerated and shared
+TK-244885,2025-09-07 15:02,voice,Billing & Payments,Returns & Refunds,0.39613985173275873,Billing,[IVR transcript] bhai still waiting for my refund bahut pareshan hu pulse2,refunded Rs 2799
+TK-246080,2025-10-17 16:40,social,Billing & Payments,Billing & Payments,0.39838665099516035,Billing,"this is very disappointing.  i bought strata 2 on 09/10. i was promised a discount on the call, invoice shows none. i already trieed on app and website. this is the last time i buy from you.",cx ok
+TK-246152,2025-10-19 06:10,chat,Other,Billing & Payments,0.4006408095233391,Chat Frontline,"helo
+invoice not downloading",rslvd on call (SOP 5.4)
+TK-244108,2025-08-10 21:21,social,Billing & Payments,Billing & Payments,0.40121001803261463,Billing,"hii
+promo code shows invalid
+my pules 2",sorted //SIM
+TK-246044,2025-10-16 14:04,voice,App & Firmware,App & Firmware,0.4015617033924309,Voice Frontline,"Dear Sir/Madam,
+Ordered my Nexa 2 watch 3 weeks back. Watch not responding to touch.
+What do I do now?",Escalated to wty. Issue: touch issue. Asked for video. //ZOY
+TK-241050,2025-03-01 14:28,voice,Other,Other,0.4019042810293044,Voice Frontline,"[IVR transcript] Hi team, Got airlite earbuds from vireo.in last month. App crashes when I open device settings. Waiting for your reply.","1. App not opening
+2. chk app version
+3. Advised beta build, rslvd -NP"
+TK-242748,2025-06-03 21:33,voice,Other,Other,0.40192222677943157,Voice Frontline,[IVR transcript] This is very disappointing. Bouht the Nexa 2 around 27-05-2025 from vireo.in. my company accounts team is asking for the tax bill. I already tried different browser. This is the last time I buy from you,Cx reported invoice not downloading. Updated GSTIN on order. Invoice emailed.
+TK-244812,2025-09-04 19:30,chat,Other,Account & Login,0.4028992661118867,Chat Frontline,"Product: the mini speaker
+Order: VR905749
+Purchased: 03-09-2025
+Issue: invoice not downloading
+Tried: checked orders page
+Expected: refund",Contact re invoice not downloading. Updated GSTIN on ord. GST invoice regenerated and shared.
+TK-246020,2025-10-15 16:55,email,Other,Connectivity,0.4039861633309945,Email Frontline,"hi
+random disconnects during calls
+my pulse 2
+anyone there",cx reached out - bt dropouts. advised to test in different location. replacement raised. cx informed.
+TK-245702,2025-10-05 20:00,chat,Other,App & Firmware,0.40431099239654,Chat Frontline,"i am losing patience.  my nexa fit band purchased last month, order vr906133. cannot pair my nexa fit band with my laptop. i already restarted the phone. fix this or i am posting on twitter","cx states pairing failure. chk phone OS version. Re-pair successful, rslvd on chat."
+TK-241910,2025-04-17 01:23,chat,Other,Other,0.4056578152882029,Chat Frontline,"Dear Sir/Madam,
+Ordered Pulse earbuds around Diwali. Money debited but order not showing.
+I waited 24 hours.
+Please help.",see prev
+TK-246327,2025-10-24 13:14,chat,Other,Other,0.40623389150452566,Chat Frontline,really frustrating. bought the neckband around 19 oct from amazon. coupon code not working. i already tried in caps. fix this or i am posting on twitter.,refunded rs 1299
+TK-247834,2025-12-02 18:29,email,Billing & Payments,Product Enquiry,0.406898606081183,Billing,"Dear Sir/Madam,
+
+I am writing with reference to my order of the Pulse 2 earbuds placed on 28/11. Your ad said 20% off and the cart says full price. I have tried in caps. I request you to kindly arrange a replacement.
+
+Regards,
+Aarav Mukherjee
+Coimbatore","issue: coupon not applied | chk coupon validity -> advised coupon terms, rslvd"
+TK-246337,2025-10-24 18:51,chat,App & Firmware,Connectivity,0.4072045468848719,Chat Frontline,"Not what I expected from Vireo. the AirLite buds purchased last month, order VR896157. my phone just doesn't see it in the list anymore. I already tried on another phone. This is the last time I buy from you.","customer reached out - unable to pair w/ phone. walked through forget + re-pair. refund approved, rs 162, 5-7 working days. closing. -SM"
+TK-241007,2025-02-28 09:32,chat,Other,Other,0.40747237213031107,Chat Frontline,"dear sir/madam,
+
+i am writing with reference to my order of the nexa 2 (vr899304) placed on february 17. promo code shows invalid. i have tried in caps. i request you to process a refund to my original payment method.
+
+regards,
+lakshmi khanna
+jaipur",promo code invlid | chk coupon validity -> partial refund of discout amount issued [closed]
+TK-242828,2025-06-08 11:10,chat,Other,Other,0.4084602749875076,Chat Frontline,I am losing patience. Ordered Strata 2 3 weeks back. OTP not coming on my number. I already tried on another browser. Refund. Now.,done -SS
+TK-244848,2025-09-06 07:40,chat,Other,Delivery & Shipping,0.4084796167958058,Chat Frontline,"my Strata 2 headphones purchased 3 weeks back, order VR905371.  My order has not been delivered yet. Can someone fix this?",reported: ord not delivered. raised ticket with courier partner. refund initiated as lost in transit. will monitor. [closed]
+TK-253627,2026-05-29 10:08,voice,Other,Delivery & Shipping,0.40926215709543384,Voice Frontline,Really frustrating. Bougth the nexa smartwatch around 29 May from Amazon. it has been 16 days and I haave nothing in hand. I already called the courier. Escalate thhis to someone senior.,"1. Shipment not received
+2. Checked AWB with courier
+3. Transferred to Email Frontline
+4. Refund initiated as lost in transit (SOP 4.2)"
+TK-252012,2026-04-09 17:36,chat,Billing & Payments,Delivery & Shipping,0.4098831374278084,Billing,"Really frustrating. Ordered ailrite earbuds a month ago. paid on 30 Mar, still waiting for something to show up. I already checked w/ neighbours. Fix this or I am posting on twitter.",re-shipped from warehouse
+TK-250214,2026-02-11 22:26,chat,Other,Other,0.41034991072721244,Chat Frontline,it connects for a second and then vanishes from the device list. VR902962. pleease call me on my registered number,reset done
+TK-244439,2025-08-23 13:48,chat,Billing & Payments,Billing & Payments,0.41109236573889446,Billing,"order not delivered, tracking not updatiing
+please resolve asap",issue: ord not delivered | chk awb w/ crr -> refund initiated as lost in transit [closed]
+TK-253230,2026-05-16 08:43,chat,Other,Other,0.41290124898019764,Chat Frontline,mic not working on clals - VR906639,re: low mic pkp | teted on clal w/ cx -> fw updaate adv (sop 5.4)
+TK-242962,2025-06-15 21:05,social,Other,Charging & Battery,0.4136656087901367,Chat Frontline,"To the Vireo Customer Care Team,
+
+I am writing with refernece to my order of my Nexa 2 watch (VR909565) placed on 24 Mar.  The promised 30 hours is nowhere close, I get maybe 2. I have fully charged and discharged twice. I request you to look into this matter at the earliest.
+
+Regards,
+Imran Sharma",sorted //SNE
+TK-253982,2026-06-09 10:25,email,App & Firmware,App & Firmware,0.4139724993333743,Email Frontline,"battery backup is terrible now
+please call me on my registered number",ticket raised for poor battery backup. checked fw 2.8.2. transferred to escalations & warranty. escalated to warranty.
+TK-242798,2025-06-06 21:19,email,Billing & Payments,Billing & Payments,0.416072068595766,Billing,"helo
+need gst invooice for my order
+orbit mini VR881383
+kindly do the needful","1. invoice not downloading
+2. regenerated invoice
+3. gst invoice regenerated & shared"
+TK-246794,2025-11-06 16:15,email,Other,Billing & Payments,0.41668350312836167,Email Frontline,"i was promised a discount on the call, invoice shows none","reported: coupon not applied. chk cart eligibility. advised coupon terms, resolved. follow-up not required."
+TK-241741,2025-04-08 16:29,email,Other,Other,0.4183960854999754,Email Frontline,"I have been a loyal cusotmer and this is how you treat me.  Got the mini speeaker from vireo.in last week. order not delivered, tracking not updating. I already checked the tracking page daily. This is the last time I buy from you.","ticket raised for shipment not rcvd. confirmed addess with cx. rto confirmed, reshipped. case closed with cx consent."
+TK-248880,2026-01-01 13:33,social,Connectivity,Connectivity,0.4189003267492013,Chat Frontline,"Namaste, Got the Nexa 2 from Amazon 2 weeks ago. It's showing a spinning circle for hours. Please advise. Awaiting response,",update completed after retry
+TK-251997,2026-04-09 10:46,chat,Charging & Battery,App & Firmware,0.41957933598585545,Chat Frontline,"hi
+the progress bar has not movved since morning
+orbit mini vr894907",-
+TK-252936,2026-05-06 21:06,chat,Other,Account & Login,0.4210666812317208,Chat Frontline,invoice not downloading.  please call me on my registeed number,GST invoice regenerated & shared. Issue: GST invoice request. Regenerated invoice. //SNE
+TK-241030,2025-02-28 20:33,chat,Billing & Payments,Other,0.4211284081803098,Billing,"Namaste,
+Got my Nexa 2 watch from vireo.in recently. My order has not been delivered yet.
+I checked with neighbours.
+Can someone fix this?
+Please revert, Faisal Pillai","courier conf dlvry for 02 mar, cx informed. issue: dlvry delayed. checked awb w/ courier."
+TK-250470,2026-02-19 16:05,voice,Connectivity,Connectivity,0.4212086181458755,Voice Frontline,"Hello, Pulse2 purchased recently, orer VR891870. Can't get past teh loadig screen in the app. PLEASE HELP. Regards,","Cleared cache, rslvd. Issue: app crashing. Checked app version. //ZOY"
+TK-254644,2026-06-29 17:47,voice,Connectivity,Connectivity,0.42195759840360025,Voice Frontline,"[IVR transcript] callers keep asking me to reeat myself since last week, VR899673","cx: mic issue | tested on call w/ cx -> permissions fixed, resolved -SS"
+TK-248200,2025-12-11 11:50,email,Other,Other,0.42237265118195755,Email Frontline,"Product: my Nexa
+Order: VR884807
+Purchased: August 08
+Issue: the strap is tearing
+Tried: tried to fix pin
+Expected: refund",cx: strap broken | chk wty eligibility -> new unit shipped under doa
+TK-252320,2026-04-18 17:53,chat,Billing & Payments,Delivery & Shipping,0.4224364534744814,Billing,"hii
+my order has not been deliveed yet
+anone there",Ticket raised for shipment not received. Checked AWB with courier. Re-shipped from warehouse. Closing.
+TK-253310,2026-05-18 18:06,email,Billing & Payments,Billing & Payments,0.4229971509981101,Billing,"pls cancel, ordered by mistake","Cx reported cancellation request. Checed shipent status. Already shipped, advised RTO/return. Cx satisfied on chat. (SOP 3.1)"
+TK-252530,2026-04-24 21:21,voice,Other,Other,0.42321557015786737,Voice Frontline,"[IVR transcript] hii i was promised a discount on the call, invoice shows none nexa 2 VR884227","1. Coupon not applied
+2. Checked cart eligibility
+3. Store credit issued -NP"
+TK-246470,2025-10-28 21:07,chat,Other,Delivery & Shipping,0.4239423498769898,Chat Frontline,"Dear team, Got my Nexa from Amazon recently. Package not delivered even after 16 days. I checked with neighbours. I have been a loyal customer & this is how u treat me. Please resolve asap. Rgds,",cust contacted re order not delivered. confirmed address with cx. re-shipped from warehouse. cx informed.
+TK-244601,2025-08-29 05:34,email,Other,Other,0.4256462049554918,Email Frontline,"product: the strata 3
+order: vr883608
+purchased: 22 aug
+issue: payment went through but i got no order id
+tried: tried logging out & in
+expected: refund",as discussed
+TK-251405,2026-03-22 05:30,chat,Billing & Payments,Account & Login,0.4269769612425003,Billing,"To the Vireo Customr Care Team,
+
+I am writing with reference to my order of Orbit Mini placed on 12/03.  The invoice PDF link gives a 404. I have checked orders page. I request you to provide a resolution within 3 working days.
+
+Regards,
+Abhishek Gaikwad
+Vadodara",GST invoice regenerated and shared. Issue: invoice not downloading. Updated GSTIN on ord.
+TK-241236,2025-03-13 08:23,chat,Other,Other,0.42803000183106543,Chat Frontline,"Dear Sir/Madam,
+
+I am writing with reference to my order of pulse 1 placed on 17/08.  What is teh status of my warratny claim. I have emailed twice. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Tenzin Pillai
+Gurugram",ticket raised for repair staus follow-up. chk rma status. rplc unit dispatched. (sop 4.2)
+TK-245080,2025-09-14 02:50,email,Other,Other,0.4280381087772027,Email Frontline,"hey, i bought the nexa 2 on 23/10. the festive offer vanished when i clicked pay. i want my money back",issue: discount not applied | checked coupon validity -> partial refund of discount amount issued
+TK-240775,2025-02-14 12:22,social,Other,Billing & Payments,0.4280857706441304,Chat Frontline,"hii
+my bank shows the same amount twice on the same day
+strata 3
+kindly do the needful",sorted
+TK-245567,2025-10-01 18:18,email,Billing & Payments,Billing & Payments,0.42848493466651294,Billing,"Hey,
+Ordered the fit band in September. Paaid on 16/09, still waiting for something to show up.
+I called the courier.
+I want my money back.
+Please revert,",Customer states delivery delayed. Raised ticket with cuorier partner. Refund initiateed as lost in transit. Closing. (SOP 2.7)
+TK-244973,2025-09-09 23:12,chat,Other,Other,0.4290818122648983,Chat Frontline,"Dar Sir/Madam,
+
+I am writing with refernce to my order of my Pulse 2 (VR886601) placed on 29-07-2025.  Ned the bill with my firm's GSTIN on it. I have tried different browser. I request you to provide a resolution within 3 working days.
+
+Yours faithfully,
+Om Desai
+Jaipur",Contact re invoice query. Updated GSTIN on order. GST invoice regenerated & shared.
+TK-251862,2026-04-05 15:13,voice,Other,Warranty & Repair,0.42945655647030356,Voice Frontline,"Namaste, Got my Nea 2 watcch from Flipkart recently. Strap pin came off. Waiting for yur reply. Thanks Sunita",Advised paid strap purchase. Issue: strap pin issue. Asked for photo. //ZOY
+TK-250526,2026-02-21 12:07,chat,Other,Other,0.4300594148319609,Chat Frontline,"Really frustrating.  Pulse2 purchased 10 days ago, order VR903718. coupon code not working. I already tried in caps. Escalate this to someone senior.",Ticket raised for discount not applied. Checked coupon validity. Store credit issued.
+TK-244300,2025-08-18 19:21,email,Delivery & Shipping,Delivery & Shipping,0.43063594794726245,Logistics,"dear sir/madam,
+
+i am writing with reference to my order of my strata 3 headphones (vr887726) placed on 15-08-2025.  i ordered my strata 3 headphones and got something else. i have rechecked my order. i request you to process a refund to my original payment method.
+
+sincerely,
+lobsang goyal",replacement raised //SIM
+TK-241117,2025-03-05 21:21,email,Billing & Payments,Account & Login,0.4312647904373953,Billing,the invoice PDF link gives a 404. VR887509,see prev
+TK-251335,2026-03-20 07:14,email,Billing & Payments,Billing & Payments,0.4315339140591402,Billing,"Dear Sir/Madam,
+
+I am writing with reference to my order of pulse 2 buds (VR908176) placed on March 20. THE FESTIVE OFFER VANISHED WHEN I CLICKED PAY. I have tried on app & website. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Sameer Dhillon
+Bengaluru","re: coupon not applied | checked cart eligibility -> adv coupon terms, rslvd [closed]"
+TK-245257,2025-09-19 12:48,chat,Returns & Refunds,Delivery & Shipping,0.43209966741094036,Returns Desk,screen has a crack before i even switched it on. vr885202,sorted [closed]
+TK-247784,2025-12-01 10:42,email,Other,Billing & Payments,0.43290788673659003,Email Frontline,"sir ji
+discount was not applied at checkout
+abhi tak kuch nahi hua
+kindly do the needful",partial rfnd of discount amount issued. issue: promo code invalid. checked cart eligibility.
+TK-244822,2025-09-05 14:18,chat,Other,Other,0.43335630847019996,Chat Frontline,"To teh Vireo Customer Care Team,
+
+I am writing with reference to my odrer of my Neax Fit band (VR902142) placed on March 08.  Cannot pair my Nexa Fit band wtih my laptop. I have frogot the device & tried again. I request you to kidnly arrange a replacement.
+
+Sincerely,
+Suresh Goyal
+Ahmedabad","re: pairing failure | asked cx to reset the device -> re-pair successful, rslvd on chat -SM"
+TK-250866,2026-03-03 21:17,chat,Connectivity,Audio Quality,0.4335195916222941,Chat Frontline,people cannot hear me on calls,"Permissions fixed, rslvd. Issue: mic issue. chk mic permissions on phone. //SNE"
+TK-245182,2025-09-17 11:09,chat,App & Firmware,App & Firmware,0.43425792547859193,Chat Frontline,"helo
+battery life has dropped to almost nothing
+pulse 2 buds",replacement raised after test ~Ramesh
+TK-252432,2026-04-21 20:54,chat,Charging & Battery,Charging & Battery,0.43454206711624843,Chat Frontline,"Product: Strata 3
+Order: VR888943
+Purchased: 01-03-2026
+Issue: firmware update stuck for 2 hours
+Tried: kept it in the case
+Expected: resolution",Cust contacted re fw update failed. Walked through recovery mode. Transferred to Logistics. Recovery successful. Will monitor. (SOP 2.7)
+TK-245807,2025-10-08 21:31,social,App & Firmware,App & Firmware,0.4350431565444314,Chat Frontline,"product: orbit mini
+order: vr890451
+purchased: august 13
+issue: cannot connect the speaker to wifi
+tried: tried 2.4ghz
+expected: refund","cx: network setup issue | checked router band -> fw update, resolved"
+TK-242961,2025-06-15 20:42,email,Billing & Payments,Other,0.4352701256924725,Billing,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Strata 3 headphones placed on 08 Jun. Want to cancel my order. I have tried cancel button, greyed out. I request you to look into this matter at the earliest.
+
+Sincerely,
+Steven Shah","issue: cancel order | cnacelled before dispatch -> already shipped, advised rto/return [closed]"
+TK-247646,2025-11-27 19:01,voice,Billing & Payments,Billing & Payments,0.4356821648268388,Billing,Honestly regrettnig this purchase. I boought the fit band on 11-11-2025. sitll waiting for my refund. I already emailed twice. Escalate this to someone senior.,Customer states refund pending. Checked reverse pickup QC status. Refund of Rs 1999 initiated to source. Cx informed.
+TK-243931,2025-08-05 10:11,chat,Other,Connectivity,0.43577555601031503,Chat Frontline,"Hi,
+This is regarding the Orbit smart speaker. Wifi setup fails at the last step.
+I tried 2.4GHz.
+Waiting for your reply.
+Thanks in advance Vihaan","unble to connect to wifi | chk router band -> fw update, resolved"
+TK-249411,2026-01-18 10:59,chat,Other,Connectivity,0.43641372328816797,Chat Frontline,"dear team, ordered the neckband a month ago.  it connects for a second and then vanishes from the device list. i tried on another phone. nothing changed. kindly look into it. regards ananya","1. Device not discoverable
+2. Walked through forget + re-pair
+3. rplc unit dispatched ~Rohan"
+TK-246904,2025-11-08 19:59,email,Other,Other,0.43726036807600144,Email Frontline,"hey, this is regarding pulse 2.  invoice not downloading. need this sorted thhis week. please revert",cx: invoice not downloading | updated gstin on ord -> gst invoice regenerated and shared ~Ritika
+TK-250878,2026-03-04 13:23,email,App & Firmware,App & Firmware,0.43752331947580037,Email Frontline,"hi
+goes from full to empty during one commute
+the strata 3
+urgent",contact re rapid battery drain. advised disabling anc/aod to test. esc to wty. cx satisfied on chat.
+TK-251368,2026-03-20 22:00,chat,Other,Delivery & Shipping,0.43798596824168584,Chat Frontline,"hey, this is regarding orbit mini. my ordder has not been delivered yet. i called the courier. nothing changed. very poor quality. what do i do now?",Ticket raised for order not delivered. Checked AWB with courier. Re-shipped from warehouse. Closing. (SOP 4.2) -VG
+TK-240190,2025-01-02 09:53,social,Other,Delivery & Shipping,0.43857972001562373,Chat Frontline,"Ordered the fit band 10 days ago. I haven't received my order.
+Please call me on my registered number.
+Thanks in advance,","1. shipment not received
+2. conf address w/ cx
+3. transferred to email frontline
+4. courier conf dlvry for 07 jan, cx informed"
+TK-247187,2025-11-15 18:57,email,Other,Delivery & Shipping,0.43928495612604024,Email Frontline,"Dear Sir/Madam,
+
+I am writing with reference to my order of my Pulse 2 placed on 06 Nov. Order not delivered, tracking not updating. I have checked the tracking page daily. I request you to process a refund to my original payment method.
+
+Regards,
+Komal Kaur
+Nashik","1. dlvry delayed
+2. conf address with cx
+3. Transferred to Returns Desk
+4. rfnd initiated as lost in transit (SOP 2.7) [closed]"
+TK-245700,2025-10-05 19:27,email,Billing & Payments,Other,0.43965147271303356,Billing,"Dear Sir/Madam,
+
+I am wrriting with reference to my order of Pulse2 (VR893032) placed on 25-09-2025. Please cancel, ordreed by mistake. I HAVE TRIED CANCEL BUTTON, GREYED OUT. I request you to process a refund to my origginal payment method.
+
+Regards,
+Aarav Qureshi","Reported: canccellation request. Cancelled before dispatch. Already shipped, advised RTO/return. Cx informed. (SOP 2.7)"
+TK-246214,2025-10-20 21:13,social,Billing & Payments,Billing & Payments,0.4401138758094063,Billing,"namaste, ordered airlite earbuds around diwali.  invoice not downloading. please call me on my registered number.",invoice query | updated gstin on ord -> invoice emailed
+TK-251724,2026-03-31 17:27,email,Billing & Payments,Delivery & Shipping,0.4406026757417633,Billing,I am losing patience. Ordered the Orbit smrat speaker a month ago. my order has not been delivered yet. I alreaady checked the tracking page daily. Escaalte this to someone senior.,issue: shipment not rcvd | raised ticket with crr partner -> re-shipped from warehouse
+TK-254578,2026-06-27 12:01,email,Other,Other,0.440632587847873,Email Frontline,"product: airlite
+purchased: june 15
+issue: paid on june 15, still waiting for something to show up
+tried: checked with neighbours
+expected: callback","1. ord not delivered
+2. checked awb with courier
+3. courier confirmed dlvry for 01 jul, cx informed"
+TK-242714,2025-06-02 00:45,social,Other,Other,0.440758725050965,Chat Frontline,"Hi Vireo support, Ordered the nexa smartwatch recently.  Invoice not downloading. I tried different browser. Nothing changed. Please help. Thanks & regards Krishna George",Reported: invioce query. Regenerated invoice. Invoiec emailed.
+TK-252183,2026-04-14 13:38,email,Returns & Refunds,Delivery & Shipping,0.4425285163316844,Returns Desk,"product: pulse earbuds
+order: vr890988
+purchased: 10 apr
+issue: the parcel looked like it was kicked here frmo the warehouse, and the unit has a crack
+tried: refsued nothing as i didn't notice till later
+expected: fix",cx: damaged in transit | checked with courier for damage claim -> refund initiated
+TK-246603,2025-11-01 11:57,chat,Returns & Refunds,Returns & Refunds,0.4431147164629281,Returns Desk,I have been a loyal customer and this is how you treat me. This is regarding the Neax 2. straap pin came off. I already tried to fix pin. This is the last time I buy from you.,issue: strap broken | chk wty eligibility -> replacement stap dispatched
+TK-247973,2025-12-06 13:36,chat,Connectivity,App & Firmware,0.44376088045763584,Chat Frontline,"hello vireo, got the nexa 2 from amazon recently. can't get past the loading screen in the app. i cleared cache. please help.","re: app not opeinng | asked for phone model + os -> bug logged, workaround shared (sop 5.4)"
+TK-254508,2026-06-24 20:53,chat,Connectivity,App & Firmware,0.44384217098675616,Chat Frontline,"Namaste, the neckband purchased recently, order VR895591. App crashes wen I open device settings. Need this sorted this week. Thhanks in advance,","re: app crashing | chk app version -> bug logged, workaround shared -SM"
+TK-253456,2026-05-24 06:18,email,Other,Delivery & Shipping,0.4443312842524587,Email Frontline,"product: the nexa 2
+order: vr885583
+purchased: 13 may
+issue: package not delivered even after 16 days
+tried: checked with neighbours
+expected: refund",issue: dlvry delayed | chk awb with courier -> refund initiated as lost in transit | xfer returns deesk
+TK-245154,2025-09-16 12:56,chat,Other,Delivery & Shipping,0.445748989085089,Chat Frontline,Not what I expected from Vireo. This is regarding the strata 3. it has been 6 days and I have nothing in hand. I already called the courier. Fix this or I am posting on twitter.,closed
+TK-251238,2026-03-16 16:26,email,Other,Other,0.44618075438800436,Email Frontline,Really frustrating. Ordered replacement case 2 weeks ago. card charged two times. I already waited a week. Escalate this to someone senior.,Cx reported double charge. Checked PG for duplicate txn. Refunded Rs 1299.
+TK-253751,2026-06-02 10:25,chat,Other,Delivery & Shipping,0.446695352315577,Chat Frontline,"Dear team, Pulse2 purchased last week, order VR884973. Packgae not delivered even aftter 19 days. Please call me on my registered number.","cx: shipment not received | raised ticket w/ courier partner -> courier confirmed dlvry for 06 jun, cx informed"
+TK-245660,2025-10-04 12:47,email,Other,Charging & Battery,0.4467604515737698,Email Frontline,"Hello, the AirLite buds purchased in September, order VR888659. Battery life has droppped to almost nothing. I updated the app. I want my money back.",cx reported battery draining fast. advised disabling anc/aod to test. esc to wty. cx informed.
+TK-251316,2026-03-19 13:16,email,App & Firmware,Charging & Battery,0.44685573898095915,Email Frontline,"hello, bought pulse2 around february 02 from vireo.in. battery backup is terrible now. i fully charged and discharged twice. need this sorted this week. regards tarun desai","ticket raised for poor battery backup. advised disabling anc/aod to test. fw update pushed, advised to monitor. cx informed."
+TK-250472,2026-02-19 17:13,social,Other,Other,0.4478779344182774,Chat Frontline,"Not acceptable at this price. Bought the AirLite buds around 17/02 from Amazon. my company accounts team is asking for the tax bill. I already tried different browser. I want a replacement or refund, nothing else.",GST invoice regenerated & shared. Issue: invoice query. Regenerated invoice. //SNE
+TK-241564,2025-03-30 12:05,social,App & Firmware,App & Firmware,0.4479879723945713,Chat Frontline,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of my Arc (VR898410) placed on 14-03-2025. The pairing light blinks but nothing ever shows up on my Moto. I have restarted the phone. I request you to kindly arrange a replacement.
+
+Sincerely,
+Krishna Jadhav","1. Unble to pair w/ phone
+2. chk phone OS version
+3. Re-pair successful, rslvd on chat ~Rohan"
+TK-248376,2025-12-16 20:37,chat,Billing & Payments,Billing & Payments,0.4483661616404578,Billing,"bhai
+order not delivered, tracking not updating
+bahut pareshan hu","Customer reached out - delivery delayed. Confirmed address with cx. Courier confirmed delivery for 22 Dec, cx informed. Follow-up not required. (SOP 3.1)"
+TK-248093,2025-12-08 21:42,social,Other,Other,0.448757411956654,Chat Frontline,"HI, THIS IS REGARDING PULSE 2 BUDS. I haven't received my order. I checked the tracking page daily. I want my money back.",cx ok (SOP 5.4)
+TK-240569,2025-01-31 19:12,chat,Other,Delivery & Shipping,0.4488972190192133,Chat Frontline,"Hey,
+Ordered the Nexa 2 2 weeks ago. Order not delivered, tracking not updating.
+I called the courier. Nothing changed.
+Not acceptable at this price.
+Need this sorted this week.
+Thank you Vivaan Nair","customer states dlvry delayed. raised ticket with courier partner. courier confirmed dlvry for 02 feb, cx informed. case closed with cx consent."
+TK-253883,2026-06-06 00:03,email,Connectivity,App & Firmware,0.44916998139618475,Email Frontline,"Product: Pulse 2
+Order: VR903923
+Purchased: April 13
+Issue: update failed and now it won't turn on
+Tried: restarted the app
+Expected: resolution","1. firmware update failed
+2. walked through recovery mode
+3. replacement raised (bricked)"
+TK-243934,2025-08-05 10:59,chat,Billing & Payments,Product Enquiry,0.44964057466073176,Billing,"hello vireo, i bought the pulse 2 earbuds on july 30.  the festive offer vanished when i clicked pay. i tried on app and website. please help. awaiting response,","re: discount not applied | chk coupon validity -> adv coupon terms, rslvd"
+TK-249637,2026-01-24 14:43,email,Other,Connectivity,0.44966631775613625,Email Frontline,"hello ji
+cannot pair pulse 2 with my laptop
+kal se
+pulse 2 VR892846
+kindly do the needful","ticket raised for unable to pair with phone. walked through forget + re-pair. re-pair successful, resolved on chat. cx satisfied on chat."
+TK-247977,2025-12-06 14:38,email,Other,Other,0.4497699944595372,Email Frontline,"I have been a loyal customer and this is how you teat me. Ordereed the fit band last week. order not delivered, tracking not updating. I already checked the tracking page daily. Refund. Now.",reported: shipment not rcvd. confirmed address w/ cx. rfnd initiated as lost in transit. cx informed.
+TK-241786,2025-04-10 14:58,email,Other,Charging & Battery,0.4498343407347659,Email Frontline,"the left earbud is not charging at all, VR883054, what do i do now?",cust contacted re left bud not charging. walked through factory reset. adv to observe for 48h and revert. cx satisfied on chat.
+TK-252536,2026-04-25 01:46,social,Other,Connectivity,0.45009649654278283,Chat Frontline,"to the vireo customer care team,
+
+i am writing with reference to my order of pulse2 placed on 06/03. the soudn stutters whenever my phone is in my pocket. i have reset both devices. i request you to provide a resolution within 3 working days.
+
+yours faithfully,
+vikram shinde
+raipur","re: intermittent disconnects | adv to test in different location -> adv, cx will monitor ~Ritika"
+TK-242485,2025-05-20 13:10,chat,Other,Other,0.45064350126998404,Chat Frontline,"Honestly regretting this purchase.  Ordered AirLite a month ago. order not delivered, tracking not updating. I already checked the tracking page daily. Fix this or I am posting on twitter.",sorted (SOP 2.7)
+TK-247286,2025-11-18 15:29,social,Billing & Payments,Other,0.45094056640762914,Billing,"dear sir/madam,
+
+i am writing with reference to my orer of my nexa fit band (vr900155) placed on 18-11-2025. cancel order vr900155. i have tried cancel button, greyed out. i request you to provide a resolution within 3 working days.
+
+regards,
+abhishek aora
+chandigarh","Alreay shipped, advised RTO/return. Issue: cancel order. Checked shipmetn status. (SOP 2.7)"
+TK-250024,2026-02-05 12:06,social,Charging & Battery,Audio Quality,0.4511330096250931,Chat Frontline,"not acceptable at this price. my pulse 2 purchased in november, order vr886968. i hear music in one ear only, other is mute. i already reset the buds. this is the last time i buy from you.",Cx reported right side silent. Checked balance settings with cx. Escalated to warranty.
+TK-249945,2026-02-03 11:45,email,Warranty & Repair,Warranty & Repair,0.4511619097813418,Escalations & Warranty,"Product: airlite earbuds
+Order: VR892439
+Purchased: 04-01-2026
+Issue: one of them is just decoration at this point
+Tried: checked balance settings
+Expected: refund",Replacement raised. Issue: no audio one side. Checked balance settings w/ cx. Via Chat Frontline. //SNE
+TK-242777,2025-06-05 16:41,email,Billing & Payments,Other,0.4517753574752369,Billing,"Dear Sir/Madam, I bought Nexa watch on 23/05.  Cancel order. Please advise.",Cx says cancellation request. Cancelled before dispatch. Refund of Rs 4999 initiated to source. Case closed with cx consent. (SOP 4.2)
+TK-244507,2025-08-25 21:29,chat,Charging & Battery,Charging & Battery,0.45198155824686076,Chat Frontline,"Hello, Bought Strata 3 around 07/04 from Amazon. Only one side plays sound. I reset the buds. Nothing changed. Honestly regretting this purchase. Please advise. Thanks in advance Ritika Desai",esc to wty. Issue: no audio one side. chk balance settings w/ cx.
+TK-252719,2026-04-29 20:41,chat,Other,Other,0.4519959703213024,Chat Frontline,"hi
+srtap pin came off","cx states strap damage. chk wty eligibility. rplc raised, RMA shared w/ cx."
+TK-249514,2026-01-20 21:25,chat,Other,Other,0.45223273739587594,Chat Frontline,"order not delivered, tracking not updating
+how do i get this fixed?",-
+TK-243020,2025-06-18 16:49,voice,Delivery & Shipping,Delivery & Shipping,0.45241275396253966,Logistics,[IVR transcript] entered wrong pincoed,as discussed //SIM
+TK-240286,2025-01-10 10:49,chat,Other,Billing & Payments,0.45246963818948305,Chat Frontline,"hii
+my company accounts team is asking for the tax bill
+arc neckband VR882213
+help",issue: invoice not downloading | updatted gstin on ord -> gst invoice regenerated & shared (sop 2.7)
+TK-247864,2025-12-03 12:38,email,Charging & Battery,Audio Quality,0.45249268662027353,Email Frontline,I have been a loyal customer and this is how you treat me.  This is regarding Pulse earbuds. right earbud completely silent. I already tried different phone. Escalate tihs to someone senior.,cx says right side silent. asked cx to check bud in case. escalated to warranty. follow-up not required.
+TK-242568,2025-05-24 21:50,email,App & Firmware,App & Firmware,0.4532184971001126,Email Frontline,"Product: Nexa watch
+Purchased: 13-04-2025
+Issue: the pairing light blinks but nothing ever shows up on my Vivo
+Tried: forgot the device and tried again
+Expected: resolution","cx states device not discoverable. chk phone OS version. Re-pair successful, resolved on chat. Will monitor. -VG"
+TK-244893,2025-09-07 21:15,chat,Other,Other,0.45386987489391434,Chat Frontline,"product: spare case
+purchased: august 24
+issue: order status stuck on shipped since august 24
+tried: checked the tracking page daily
+expected: fix",cx: order not delivered | raised ticket with courier partner -> refund initiated as lost in transit | xfer logistics
+TK-247102,2025-11-13 19:04,chat,Other,Other,0.4541800921627545,Chat Frontline,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Nexa 2 watch (VR885641) placed on October 30. I haven't received my order. I havve checked with neighbours. I request you to provide a resolution within 3 working days.
+
+Regards,
+Arjun Jain","issue: shipment not received | raised ticket w/ courier partner -> rto confirmed, reshipped"
+TK-243920,2025-08-04 17:37,chat,Billing & Payments,Billing & Payments,0.45632624514781606,Billing,"Honestly regretting this purchase. This is regarding Orbit speaker. paid but package not delivered even after 6 days. I already checked the tracking page daily. I want a replacement or refund, nothing else.","cx: delivery delayed | confirmed address w/ cx -> crr confirmed delivery for 09 aug, cx informed"
+TK-245699,2025-10-05 19:20,chat,Other,Charging & Battery,0.4565628250396899,Chat Frontline,"I have to charge it twice a day now, it used to lats days, VR909584, can someone fix this?",esc to wty. Issue: battery draining fast. chk usage pattern with cx. //SNE
+TK-249880,2026-02-01 10:51,chat,Billing & Payments,Billing & Payments,0.45724946362423174,Billing,my company accounts team is asking for the tax bill,"1. Invoice not downloading
+2. Updated GSTIN on ord
+3. GST invoice regenerated and shared"
+TK-242283,2025-05-08 20:49,social,Billing & Payments,Billing & Payments,0.4579226157553922,Billing,"PRODUCT: AIRLITE
+PURCHASED: MAY 03
+ISSUE: YOUR AD SAID 20% OFF AND THE CART SAS FULL PRICE
+TRIED: TRIED ON APP AND WEBSITE
+EXPECTED: REPLACEMENT",as discussed
+TK-253211,2026-05-15 17:04,social,Other,Connectivity,0.45806445906281457,Chat Frontline,"Dear Sir/Madam,
+Ordered my Pulse a month ago. Pairing is not working.
+I forgot the device and tried again. Nothing changed.
+What do I do now?
+Thanks in advance, Manpreet","issue: device not discoverable | chk phone os version -> re-pair successful, rslvd on chat -SM"
+TK-240808,2025-02-16 20:40,social,Delivery & Shipping,Delivery & Shipping,0.45815275225897795,Logistics,"Product: my Nexa 2 watch
+Order: VR902645
+Purchased: 08 Feb
+Issue: I moved houses yesterday and the order is going to the old flat
+Tried: tried editing in app
+Expected: fix",resolved on call ~Imran
+TK-250703,2026-02-26 20:30,email,Delivery & Shipping,Delivery & Shipping,0.45849213079942214,Logistics,it has been 19 days and I haev nothing in hand.  kindly look into it,cx ok //SIM
+TK-246264,2025-10-22 10:20,chat,Other,Billing & Payments,0.4585189495893985,Chat Frontline,"hi team, got pulse2 from vireo.in recently.  my bank says rs 3499 went to you but your site says i have no orders. i checked bank statement. need this sorted this week.",see prev
+TK-250368,2026-02-16 13:33,email,Other,Other,0.458701538382244,Email Frontline,"Hi there, Thhis is regarding Pulse 2.  I was promised a discount on teh call, invoice shows none. I tried on app and website. Nothing changed. Can someone fix this? Thank u Om Mathew",as discussed
+TK-252750,2026-04-30 23:15,email,App & Firmware,App & Firmware,0.4592371400769864,Email Frontline,"product: nexa fit
+purchased: 25-05-2025
+issue: cannot login to my account
+tried: tried on another browser
+expected: replacement",resolved on call //SIM
+TK-253122,2026-05-13 11:20,email,Other,Delivery & Shipping,0.45944532911734054,Email Frontline,"Dear Sir/Madam, This is regarding orbit mini. My order has not been delivered yet. I checked the tracking page daily. Nothing changed. Need this sorted this week.","customer reached out - shipment not received. raised ticket with crr partner. rto confirmed, reshipped. wlil monitor."
+TK-251252,2026-03-17 07:26,chat,Delivery & Shipping,Other,0.4596687518661619,Logistics,"I am losing patience.  my Strata 3 headphones purchased last month, order VR883999. typo in teh flat number, courier wll nveer fnid it. I already tried editiing in app. I watn a replacement or refund, ntohing else.",cust contacted re address update. chk dispatch status. address updated.
+TK-249941,2026-02-03 09:30,chat,Other,Other,0.4598042212224339,Chat Frontline,"Not what I expected from Vireo.  Ordered my Strata 2 headphones last month. discount was not applied at checkout. I already tried in caps. I want a replacement or refund, nothing else.","issue: discount not applied | chk coupon validity -> adv coupon terms, rslvd"
+TK-252373,2026-04-20 13:36,chat,Other,Delivery & Shipping,0.459909075180492,Chat Frontline,"Dear Sir/Madam,
+
+I am writing with reference to my order of Pulse 2 (VR893116) placed on 10 Apr.  My order has not been delivered yet. I have called teh courier. I requet you to provide a resolution wtihin 3 working days.
+
+Regards,
+Thomas Qureshi","re: ord not delivered | cnof address w/ cx -> crr conf dlvry for 24 apr, cx informed (sop 3.1)"
+TK-242954,2025-06-15 13:11,social,Billing & Payments,Returns & Refunds,0.4599947475854673,Billing,"Hi Vireo support, Bought the mini seaker around 12 Jun from vireo.in. Still waiting for my refund. I checked bank. How do I get this fixed? Rgds, Manish Sheikh",done
+TK-243022,2025-06-18 23:01,email,Other,Delivery & Shipping,0.4603851892081522,Email Frontline,"Dear Sir/Madam,
+
+I am writing wiith rference to my order of teh fit band (VR891642) placed on 07 Jun.  Tracking has said out for delivery for a week now. I have checked with neighbours. I request you to look into ths matter at the earliest.
+
+Regards,
+Vihaan D'Souza","Contact re shipment not rcvd. Checked AWB with courier. Courier confirmed dlvry for 24 Jun, cx informed. Cx informed. (SOP 2.7)"
+TK-244687,2025-08-31 11:29,chat,Warranty & Repair,Charging & Battery,0.46080549667556625,Escalations & Warranty,"hi
+the l bud is basically a paperweight now, r is fine",rslvd on call
+TK-247377,2025-11-20 20:50,email,Other,Other,0.4608118870660581,Email Frontline,"Hello, I bought pulse 2 buds on 11/11. Two entries of Rs 4999 on my statement for one pair of earbuds. Please call me on my registered number. Regards",as discussed ~Abhishek
+TK-243845,2025-08-02 07:11,email,Other,Other,0.4608325060472651,Email Frontline,"dear sir/madam,
+
+i am writing with reference to my order of strata 3 placed on 24 jul. the courier marked it delivered but nobody in my house got anything. i have checked with neighbours. i request you to process a refund to my original payment method.
+
+regards,
+meera patil","re: dlvry dellayed | raised ticket with courier partner -> refund approved, rs 630, 5-7 working days"
+TK-244574,2025-08-28 13:06,social,Delivery & Shipping,Delivery & Shipping,0.46112311679065227,Logistics,"Hi, This is regarding the Nexa 2. Want to cancel my order. I wat my money back. Awaiting response","1. Cancellation request
+2. Cancelled before dispatch
+3. Already shipped, adv RTO/return (SOP 2.7) ~Imran"
+TK-243643,2025-07-23 18:08,email,Connectivity,Connectivity,0.46155085953124725,Email Frontline,"Pathetic experience honestly.  the fit band purchased in October, order VR882777. app crashes when I open device settings. I already reinstalled the app. Fix ths or I am posting on twitter.","1. app crashing
+2. known issue on ios 18 - bug logged
+3. advised beta build, rslvd"
+TK-246815,2025-11-07 09:10,social,Billing & Payments,Billing & Payments,0.46175745956474884,Billing,"hii
+coupon code not working",resolved on call
+TK-254034,2026-06-10 19:28,social,App & Firmware,App & Firmware,0.46208560514615316,Chat Frontline,"Hey,
+Bought my Nexa 2 watch around March 16 from vireo.in. Watch not responding to touch.
+I cleaned screen.
+Kindly look into it.
+Thanks & regards,",Replacement raised. Issue: touch not responding. Walked through hard reset.
+TK-241438,2025-03-24 18:49,social,Other,Charging & Battery,0.46296413556050436,Chat Frontline,"Hi there, my Strata 3 headphones purchased in February, order VR903475. Goees from full to empty during one commute. How do I get this fixed?","customer reached out - poor battery backup. checked fw 3.8.10. advised settings change, cx satisfied."
+TK-242731,2025-06-02 16:38,chat,Delivery & Shipping,Other,0.463400365069396,Logistics,"Not what I expected from Vireo. my Pulse purchased 10 days ago, order VR887833. my son ordered this without asking, please reverse. I already tried cancel button, greyed out. I want a replacement or refund, nothing else.",Ticket raised for cancel order. Checked shipment status. Refunded Rs 2374. Cx informed. (SOP 2.7)
+TK-253664,2026-05-30 12:56,voice,Other,Delivery & Shipping,0.4638171520824607,Voice Frontline,"paid on 21 May, still waiting for somethig to show up, VR906556, please resolve asap","order not delivered | confirmed address with cx -> courier confirmed delivery for 04 jun, cx informed"
+TK-248610,2025-12-23 20:11,chat,Connectivity,Connectivity,0.4640425680805389,Chat Frontline,Really frustrating. Bought AirLite around 30 Jun from Amazon. app crashes when I open device settings. I already reinstalled the app. Refund. Now.,"issue: app crashing | asked for phone model + os -> bug logged, workaround shared"
+TK-245536,2025-09-30 16:08,chat,Other,Other,0.46506710709999066,Chat Frontline,"Dear Sir/Madam, Bought my Pulse 2 around 16 Sep from vireo.in. Piad on 16 Sep, sitll waiting for something to show up. Kindly look into it. Rgds,",Reported: shipment not rcvd. chk AWB w/ crr. rfnd initiated as lost in transit.
+TK-250247,2026-02-13 07:02,social,App & Firmware,App & Firmware,0.46547433106307023,Chat Frontline,"hi, got pulse 2 from amazon last month. battery life has dropped to almost nothing. i fullly charged and discharged twice. nothing changed. how do i get this fixed?",Reported: rapid battery drain. Checked FW 2.4.4. Replacement raised after test. ~Ramesh
+TK-251321,2026-03-19 16:26,chat,Charging & Battery,Charging & Battery,0.4656270202618032,Chat Frontline,"hi team, this is regarding pulse 2 buds. one of them is just decoration at this point. please help. thank u, nisha shinde","Contact re single side audio only. chk balance settings w/ cx. rplc approved, reverse pkp arranged."
+TK-245748,2025-10-07 11:04,email,Other,Warranty & Repair,0.4656811023642497,Email Frontline,"Product: the Nexa 2
+Order: VR883678
+Purchased: 06/09
+Issue: watch not responding to touch
+Tried: restarted
+Expected: replacement","1. touch not responding
+2. chk fw version
+3. new unit shipped under doa"
+TK-243087,2025-06-22 19:37,chat,Audio Quality,Connectivity,0.46582046710814135,Chat Frontline,"hello
+the sound stutters whenever my phone is in my pockte
+kindly do the needful","Advised, cx will monitor. Issue: connection dropping. chk FW 3.5.2. //SNE"
+TK-253820,2026-06-03 22:34,chat,Warranty & Repair,Audio Quality,0.4658363883371701,Escalations & Warranty,"Hello Vireo,
+Ordered Pulse2 recently. I hear music in one ear only, other is mute.
+Need this sorted this week.
+Awaiting response",Contact re right side silent. Walked through reset. Reset rslvd. Case closed with cx consent.
+TK-250829,2026-03-02 19:48,voice,Other,Other,0.46596216698613824,Voice Frontline,[IVR transcript] random discnonects during calls VR902182 what do i do now?,connection dropping | chk interference sources -> fw upadte resolved | xfer returns desk
+TK-245096,2025-09-14 19:14,email,Other,Billing & Payments,0.46609423612438566,Email Frontline,"hello
+i was promised a discount on the call, invoice shows none
+strata 2","contact re promo code invalid. checked coupon validity. advised coupon terms, resolved."
+TK-251332,2026-03-19 22:52,email,Other,Other,0.46669415420377985,Email Frontline,"hii
+i haven't received my order
+strata 3
+urgent",closed (SOP 3.1) //SIM
+TK-248136,2025-12-10 06:29,chat,App & Firmware,App & Firmware,0.46678939294164545,Chat Frontline,"pathetic exerience honestly. ordered my nexa 2 watch a month ago. cannot pair my nexa 2 watch with my laptop. i already restarted the phone. i want a replacement or refund, nothing else","Cx says device not discoverable. chk phone OS version. Transferred to Escalations & Warranty. Reset done, paired ok. Follow-up not required."
+TK-243992,2025-08-07 16:21,chat,Delivery & Shipping,Delivery & Shipping,0.46754683238186634,Logistics,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of the strata 3 (VR884705) placed on 27-07-2025. Need to change delivery address. I have tried editing in app. I request you to process a refund to my original payment method.
+
+Regards,
+Meera Sethi
+Thiruvananthapuram",cx: wrong pincode | updated address with courier -> address updated
+TK-248636,2025-12-24 14:56,email,Other,Other,0.4678762577880743,Email Frontline,the festive offer vanished when I clicked pay.  VR905498. how do i get this fixed?,as discussed
+TK-242321,2025-05-11 10:08,voice,Other,Other,0.4678981763797299,Voice Frontline,"[IVR transcript] Not what I expected from Vireo.  Strata 3 purchased last month, order VR882295. service centre took it, now silence. I already emailed twice. Refund. Now.","re: rma status query | checked qc report -> refund approved, rs 997, 5-7 working days"
+TK-249421,2026-01-18 18:05,voice,Billing & Payments,Other,0.4680488729921933,Billing,"hii
+my son ordered this without asking, please revverse
+??",Cx says cancellation request. Checked shipment status. Refunded Rs 2249. Will monitor. (SOP 4.2)
+TK-254162,2026-06-14 16:02,email,Charging & Battery,Audio Quality,0.4683728922776232,Email Frontline,Pathetic experience honestly. This is regarding Strata 2. one of them is just decoration at this point. I already reset the buds. Fix this or I am postnig on twitter.,"issue: left side silent | walked through reset -> replacement approved, reverse pickup arranged | xfer returns desk ~Pranav"
+TK-247076,2025-11-13 11:05,chat,Other,Connectivity,0.4686895872230377,Chat Frontline,"to the vireo customer care team,
+
+i am writing with reference to my order of my orbit (vr903283) placed on 23 aug.  keeps losing my phone if i walk to the other room. i have reset both devices. i request you to look into this matter at the earliest.
+
+yours faithfully,
+aarav jadhav","1. bt dropouts
+2. checked fw 1.9.9
+3. adv, cx will monitor [closed]"
+TK-253632,2026-05-29 11:58,chat,Billing & Payments,Billing & Payments,0.4687639807109373,Billing,"hi team,
+ordered arc neckbnd 10 days ago. transaction done, where is my stuff.
+i want a replacement.
+thaks in advance",as discussed
+TK-242854,2025-06-10 03:11,chat,Other,Other,0.46910019726519975,Chat Frontline,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of Pulse earbuds (VR897253) placed on 31-05-2025. Promo code shows invalid. I have tried in caps. I request you to process a refund to my original payment method.
+
+Regards,
+Ishaan Pillai
+Bengaluru",issue: coupon not applied | checked coupon validity -> refunded rs 1999 ~Abhishek
+TK-250043,2026-02-05 18:28,chat,App & Firmware,Connectivity,0.4691375127069796,Chat Frontline,"hello
+it connects for a second and then vaishes form the device list","Re-pair successful, resolved on chat. Issue: device not discoverable. Walked through forget + re-pair."
+TK-254098,2026-06-12 20:09,chat,App & Firmware,App & Firmware,0.4692009709252621,Chat Frontline,"HEY,
+ORDERED PULSE EARBUSD 3 WEEKS BACK. It connects for a second and then vanishes from the device list.
+Can someone fix this?
+Rgds,","Reset done, paired ok. Issue: device not discoverable. chk phone OS version. //SNE"
+TK-247154,2025-11-15 06:08,chat,App & Firmware,App & Firmware,0.46926594803307886,Chat Frontline,"i have to tap ten times for one swipe to rgister
+vr888579","1. Unresponsive display
+2. Asked for video
+3. esc to warranty ~Rohan"
+TK-249774,2026-01-28 14:30,chat,App & Firmware,Connectivity,0.46938832541301506,Chat Frontline,"hello vireo, bought the pulse 2 earbuds around 02/09 from flipkart.  the pairing light blinks but nothing ever shows up on my iphone. i restarted the phone. nothing changed. i want a replacement. rgds","cx: pairing failure | asked cx to reset the device -> advised fw update via app, resolved -SM"
+TK-245130,2025-09-15 18:37,email,Charging & Battery,Charging & Battery,0.46960726131744285,Email Frontline,update failed and now it won't turn on,reported: update hang. walked through recovery mode. recovery successful. cx satisfied on chat.
+TK-241690,2025-04-05 15:02,chat,Billing & Payments,Billing & Payments,0.4699626051819341,Billing,"bhai
+paid but package not delivered even after 12 days
+please jaldi
+the strata 3",Re-shipped from warehouse. Issue: order not delivered. Checked AWB with courier.
+TK-241333,2025-03-18 21:42,email,Other,Charging & Battery,0.4702977377675032,Email Frontline,"to the vireo customer care team,
+
+i am writing with reference to my order of nexa fit (vr882765) plaecd on 13/03.  battery life has dropped to almost nothing. i have fully charged and discharged twice. i request you to look into this matter at the earliest.
+
+regards,
+vikram kulkarni
+nagpur","Cx says battery draining fast. chk FW 3.0.8. adv settings change, cx satisfied."
+TK-250806,2026-03-02 09:08,social,Other,Delivery & Shipping,0.4704622266949226,Chat Frontline,"hello, ordered my nexa 2 watch 2 weeks ago.  my order has not been delivered yet. i checked the tracking page daily. nothing changed. not what i expected frrom vireo. plesae advise. thanks in advance, yash",cx: delivery delayed | conf address w/ cx -> rfnd initiated as lost in transti (sop 4.2)
+TK-250282,2026-02-14 13:06,chat,Other,Other,0.47052284242120274,Chat Frontline,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Pulse 2 (VR904797) placed on 14/02. Tyo in the flat number, courier will never find it. I have tried editing in app. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Imran Fernandes",see prev (SOP 3.1)
+TK-254120,2026-06-13 14:15,email,Other,Warranty & Repair,0.47099892236119756,Email Frontline,"Hi team,
+Bougt my Nexa 2 watch around 22 Nov from vireo.in.  Screen is unresponsive.
+I restarted. Nothing changed.
+Please help.
+Regards, Aishwarya",hard reset resolved. issue: unresponsive display. walked through hard reset.
+TK-251752,2026-04-01 20:40,chat,Charging & Battery,Charging & Battery,0.47108156404222984,Chat Frontline,"hi there, this is regarding my pulse 2.  it's showing a spinning circle for hours. i kept it in the case. waiting for your reply. awaiting response,",cx states firmware update failed. Checked FW 1.7.0 rollout. New unit shipped under DOA.
+TK-249362,2026-01-16 20:04,email,Other,Other,0.4712395789338923,Email Frontline,"Product: the Nexa 2
+Order: VR892536
+Purchased: 30-05-2025
+Issue: OTP not coming on my number
+Tried: tried on another browser
+Expected: refund",as discussed
+TK-252821,2026-05-03 12:34,email,Other,Other,0.4712508933448535,Email Frontline,"to the vireo customer care team,
+
+i am writing with reference to my order of the pulse 2 earbuds (vr885199) placed on 01 may.  card charged two times. i have waited a week. i request you to provide a resolution within 3 working days.
+
+yours faithfully,
+gurpreet d'souza","cx reached out - duplicate payment. conf UTRs. Refund approved, Rs 3149, 5-7 working days."
+TK-245638,2025-10-03 18:40,email,Other,Other,0.4713655876828015,Email Frontline,"Pathetic experience honestly. Bought my Pulse 2 around 19-07-2025 from vireo.in. it connects for a second and then vanishes from the device list. I already forgot the dveice and tried again. I want a replacement or refund, nothing else.","issue: device not discoverable | asked cx to reset the device -> advised fw update via app, resolved ~Ritika"
+TK-253274,2026-05-17 18:15,chat,Charging & Battery,Charging & Battery,0.4713745156136907,Chat Frontline,"dear sir/madam,
+
+i am writing with reference to my order of my pulse 2 placed on february 28. firmware update is stuck at 99%. i have kept it in the case. i request you to provide a resolution within 3 working days.
+
+sincerely,
+sukhwinder reddy
+gurugram",issue: update hang | chk fw 1.1.0 rollout -> update completed after retry //SNE
+TK-248741,2025-12-27 17:31,email,Other,Other,0.4718218164907507,Email Frontline,"Dear team, Order VR888000 (Pulse2). I HAVEN'T RECEIVED MY ORDER. I checked the tracking page daily. Nothing changed. I have been a loyal cusstomer and thiis is how you treaat me. Waiting for your reply.",cust contacted re order not delivered. checked awb w/ courier. rfnd of rs 350 initiated to source. case closed w/ cx consent.
+TK-251444,2026-03-23 12:15,chat,Delivery & Shipping,Delivery & Shipping,0.4718602599052762,Logistics,"Hello Vireo, Order VR882889 (airlite earbuds). Packed the box a week ago and it's still here. I called courier. Nothing changed. How do I get this fixed? Please revert,",re: reverse pkp pending | chk pkp awb -> rfnd processed without pkp as goodwill
