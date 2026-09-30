@@ -67,4 +67,4 @@ Screen recording: **https://drive.google.com/file/d/1wKZcoEYCkaB2hkRRrPBRYNwUxVy
 
 **Github Repo Link**
 
-**[ADD PUBLIC GITHUB REPO URL]**
+**https://github.com/rayinaaa/vireo-audio-support-ticket-ai**
