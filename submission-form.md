@@ -52,11 +52,8 @@ Used ChatGPT/GPT-5.6 Luna for analysis planning, code generation/debugging, inte
 
 AI was useful for quickly exploring alternative validation approaches and turning the business findings into a concise memo. I discarded attempts to make a fully LLM-dependent classifier because it would add API cost, credentials, latency and non-determinism without solving the weak-label problem.
 
-Screen recording: **[ADD PUBLIC GOOGLE DRIVE RECORDING LINK]**
+Screen recording: **https://drive.google.com/file/d/1wKZcoEYCkaB2hkRRrPBRYNwUxVydKN_M/view?usp=sharing**
 
-**Your Public Google Drive Link**
-
-**[ADD PUBLIC GOOGLE DRIVE FOLDER LINK]**
 
 **Someone picks this up on Monday and you are unreachable. The three things they need to know.**
 
